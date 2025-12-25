@@ -1,9 +1,9 @@
-# Rajdeep Choudhury 👋
+# Rajdeep Choudhury 
 
 I enjoy building things with code and turning ideas into real projects.  
 Always curious, always learning.
 
-**Currently pursuing a B.Tech in Computer Science & Engineering**  
+**B.Tech in Computer Science & Engineering (Ongoing)**  
 🎓 Amity University 
 
 ---
@@ -23,6 +23,6 @@ Always curious, always learning.
 
 ---
 
-PS:**Python is GOATed**  
+PS: **Python is GOATed**  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Python)
