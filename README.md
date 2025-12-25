@@ -3,8 +3,8 @@
 I enjoy building things with code and turning ideas into real projects.  
 Always curious, always learning.
 
-🎓 **B.Tech in Computer Science & Engineering**  
-Amity University 
+**Currently pursuing a B.Tech in Computer Science & Engineering**  
+🎓 Amity University 
 
 ---
 
@@ -24,3 +24,4 @@ Amity University
 ---
 
 PS: **Python is GOATed**
+`Python`
