@@ -1,16 +1,26 @@
-## Hi there 👋
+# Rajdeep Choudhury 👋
 
-<!--
-**RajdeepChoudhury/RajdeepChoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things with code and turning ideas into real projects.  
+Always curious, always learning.
 
-Here are some ideas to get you started:
+🎓 **B.Tech in Computer Science & Engineering**  
+Amity University 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Interests & Hobbies
+- 📸 Photography  
+- ♟️ Playing Chess  
+- 🏐 Volleyball  
+- 🌊 Beaches & Travel  
+- 🎬 Movies & Web Series  
+
+---
+
+## 📌 Fun Facts  
+- 🏖️ Loves beach sunsets  
+- 🍔 Sundays = snacks + Netflix  
+
+---
+
+PS: **Python is GOATed**
