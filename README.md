@@ -5,6 +5,9 @@ Always curious, always learning.
 
 **B.Tech in Computer Science & Engineering (Ongoing)**  
 Amity University 
+<p align="center">
+  <img src="./assets/monochrome-anim.svg" alt="Animated Profile Picture" width="380" />
+</p>
 
 ---
 
