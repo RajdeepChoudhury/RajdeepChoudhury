@@ -4,26 +4,26 @@ I enjoy building things with code and turning ideas into real projects.
 Always curious, always learning.
 
 **B.Tech in Computer Science & Engineering (Ongoing)**  
-🎓 Amity University 
+Amity University 
 
 ---
 
-## 🎯 Interests & Hobbies
-- 📸 Photography  
-- ♟️ Playing Chess  
-- 🏐 Volleyball  
-- 🌊 Beaches & Travel  
-- 🎬 Movies & Web Series  
+## Interests & Hobbies
+- Photography  
+- Playing Chess  
+- Volleyball  
+- Beaches & Travel  
+- Movies & Web Series  
 
 ---
 
-## 📌 Fun Facts  
-- 🏖️ Loves beach sunsets  
-- 🍔 Sundays = snacks + Netflix  
+## Fun Facts  
+- Loves beach sunsets  
+- Sundays = snacks + Netflix  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@ Always curious, always learning.
 
 ---
 
-## 🌐 Socials
+## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rajdeep_choudhury/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-choudhury-5152a4309/)
